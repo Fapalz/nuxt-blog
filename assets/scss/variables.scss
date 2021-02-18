@@ -1,0 +1,9 @@
+@mixin globalWrapper {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+$gray: #333;
+
+$basic-bg-color: #fcc000;
